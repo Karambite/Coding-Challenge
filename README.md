@@ -21,6 +21,8 @@ Given the following dataset in `ClusterPlot.csv`, determine the number of cluste
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file.
 
+## Name
+	Sudesh Easwaran, Computer Engineering, freshman
 
 ## Introduction
 
@@ -81,4 +83,6 @@ https://blog.cambridgespark.com/how-to-determine-the-optimal-number-of-clusters-
 https://www.youtube.com/watch?v=1XqG0kaJVHY 
 
 https://www.youtube.com/watch?v=ZueoXMgCd1c 
+
+
 
